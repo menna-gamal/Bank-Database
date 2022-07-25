@@ -3,6 +3,7 @@
 
 int main()
 { int x;
+    int y;
     printf("Hello world!\n");
     return 0;
 }
