@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1660267425 source:e:\embedded course\menna bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"database.h"
+
+1660268249 e:\embedded course\menna bank database\database.h
+
+1660268249 source:e:\embedded course\menna bank database\database.c
+	<stdio.h>
+	<stdlib.h>
+	"database.h"
+
