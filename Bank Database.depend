@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1660267425 source:e:\embedded course\menna bank database\main.c
+1660404561 source:e:\embedded course\menna bank database\main.c
 	<stdio.h>
 	<stdlib.h>
 	"database.h"
 
-1660268249 e:\embedded course\menna bank database\database.h
+1660400618 e:\embedded course\menna bank database\database.h
 
-1660268249 source:e:\embedded course\menna bank database\database.c
+1660401483 source:e:\embedded course\menna bank database\database.c
 	<stdio.h>
 	<stdlib.h>
 	"database.h"
